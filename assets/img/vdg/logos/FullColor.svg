@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #004f71;
+        font-family: Apercu-Regular, Apercu;
+        font-size: 137.32px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        fill: #e51636;
+        font-family: Chicken-Butt, 'Chicken Hut';
+        font-size: 228.82px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="-33.93" y="-46.96" width="1975.1" height="1157.15"/>
+  <text class="cls-4" transform="translate(307.03 576.53)"><tspan x="0" y="0">S</tspan><tspan class="cls-1" x="71.82" y="0">e</tspan><tspan class="cls-5" x="149" y="0">n</tspan><tspan class="cls-6" x="226.59" y="0">d</tspan><tspan class="cls-11" x="305.82" y="0">i</tspan><tspan class="cls-14" x="338.09" y="0">n</tspan><tspan x="415.55" y="0">g</tspan></text>
+  <text class="cls-4" transform="translate(987.87 576.53)"><tspan class="cls-2" x="0" y="0">t</tspan><tspan class="cls-13" x="50.67" y="0">o </tspan><tspan class="cls-12" x="168.77" y="0">o</tspan><tspan class="cls-9" x="249.38" y="0">t</tspan><tspan class="cls-15" x="300.33" y="0">h</tspan><tspan class="cls-8" x="378.88" y="0">e</tspan><tspan class="cls-10" x="453.86" y="0">r</tspan><tspan x="506.18" y="0">s</tspan></text>
+  <text class="cls-7" transform="translate(795.1 633.98) scale(1.07 1)"><tspan x="0" y="0">Care</tspan></text>
+  <text/>
+</svg>
